@@ -3,6 +3,10 @@ Hello! I am a software engineer, data scientist, and Assistant Professor in the 
 My GitHub repositories are primarly focused on teaching, but I plan to share more reasearch soon.
 
 # Links
-https://orcid.org/0009-0003-8141-567X![image](https://github.com/jmcmeen/jmcmeen/assets/3937961/81bfd452-970e-4633-a5af-ec408670d69e)
+[ORCID](https://orcid.org/0009-0003-8141-567X)
+[ResearchGate](https://www.researchgate.net/profile/John_Mcmeen)
+
+# Publications
+[Herpetofauna of Steele Creek Park](https://bioone.org/journals/southeastern-naturalist/volume-21/issue-1/058.021.0110/Herpetofauna-of-Steele-Creek-Park-Sullivan-County-TN-with-Comments)
 
 Feel free to reach out -> johnmcmeen@gmail.com
