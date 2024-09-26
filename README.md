@@ -3,6 +3,4 @@ Hello! I am a software engineer, data scientist, and Assistant Professor in the 
 
 My GitHub repositories are primarly focused on teaching, but I plan to share more reasearch soon.
 
-[ORCID](https://orcid.org/0009-0003-8141-567X) | [ResearchGate](https://www.researchgate.net/profile/John_Mcmeen)
-
-Feel free to reach out -> johnmcmeen@gmail.com
+[ORCID](https://orcid.org/0009-0003-8141-567X) | [ResearchGate](https://www.researchgate.net/profile/John_Mcmeen) | johnmcmeen@gmail.com
