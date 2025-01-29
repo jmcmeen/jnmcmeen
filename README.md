@@ -1,5 +1,5 @@
 ### b33p
-Hello! I am a software engineer, data scientist, and Assistant Professor in the Department of Computer and Information Sciences at Northeast State Community College. My research focuses on applications of acoustic analysis and machine learning algorithms in ecological sciences.
+Hello! I am a software engineer, data scientist, and Instructor of Computer Science / AI at Western Governors University. My research focuses on applications of acoustic analysis and machine learning algorithms in ecological sciences.
 
 My GitHub repositories are primarly focused on teaching, but I plan to share more reasearch soon.
 
